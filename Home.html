@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="hotel.css">
+    <a href="Register.html"></a>
+</head>
+<body>
+   
+  <header>
+        <nav>
+          <img src="AG logo.png">
+            
+            <a href="#Home">Home</a>
+            <a href="#Rooms">Rooms</a>
+            <a href="#Aboutus">Aboutus</a>
+            <a href="#Register">Register</a>
+        </nav>
+
+       <button class="login-btn" data-cy="LoginHeaderText">Login or Create Account</button>
+   </header>
+
+         <section class="room-list" id="rooms">
+          <img src="AG logo.png" alt="">
+           <h1>Welcome to Aruna Grands </h1>
+           <p>Hospitality That Feels Like Home</p>
+           <h2>Available Rooms</h2>
+
+    <label>Filter by Type:
+      <select id="filterType" onchange="filterRooms()">
+        <option value="">All</option>
+        <option value="Single">Single</option>
+        <option value="Double">Double</option>
+        <option value="Deluxe">Deluxe</option>
+        <option value="Family">Family</option>
+        <option value="Suite">Suite</option>
+        <option value="Luxary">Luxary</option>
+      </select>
+    </label>
+
+  
+</body>
+</html>
