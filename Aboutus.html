@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <style>
+        body,
+        html {
+            height: 100%;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+        
+        .bg-image {
+            /* The image used */
+            background-image: url("https://wallpapercave.com/wp/wp1846068.jpg");
+
+
+            /* Add the blur effect */
+            filter: blur(8px);
+            -webkit-filter: blur(8px);
+
+            /* Full height */
+            height: 100%;
+
+            /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        /* Position text in the middle of the page/image */
+        .bg-text {
+            background-color: rgb(0, 0, 0);
+            /* Fallback color */
+            background-color: rgba(0, 0, 0, 0.5);
+            /* Black w/opacity/see-through */
+            color: white;
+            font-weight: bold;
+            border: 3px solid #f1f1f1;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -68%);
+            z-index: 2;
+            width: 80%;
+            padding: 20px;
+            text-align: center;
+        }
+          
+        li {
+            font-size: 25px;
+            list-style-type: none;
+            display: inline;
+            display: inline-block;
+            padding: 25px;
+        }
+
+        p {
+            font-size: larger;
+            margin-left: 9%;
+            margin-right: 12%;
+        }
+       
+    </style>
+    </head>
+
+    <body>
+
+        <div class="bg-image"></div>
+
+        <div class="bg-text">
+            <h1  style="font-size:70px">About us</h1>
+            <h2 style="font-size:50px">Highlights</h2>
+            <div>
+                <ul>
+                    <li>📍 Prime Location</li>
+                    <li>🍽️ Multi-Cuisine Restaurant:</li>
+                    <li>🌐 Free Wi-Fi:</li>
+                    <li>🚗 Free Parking</li>
+                    <li>💪 Fitness Center</li>
+                    <li>👶 Childcare Services</li>
+                </ul>
+            </div>
+
+            <p style="text-align: left;">Located in the heart of the city, Aruna Grand Hotel is perfect for both leisure
+                and business travelers.
+                With easy access to tourist attractions, shopping centers, and business hubs, your stay will be
+                convenient and enjoyable. The hotel offers spacious rooms in Deluxe, Executive, and Suite categories,
+                starting at just ₹2,999 per night. Guests can enjoy modern comforts like air conditioning, premium
+                bedding, free parking, high-speed Wi-Fi, and private balconies. A complimentary breakfast is included,
+                and delicious meals are served at our in-house multi-cuisine restaurant or through 24/7 room service.
+            </p>
+            <p style="text-align: left;">
+                We care about every guest's experience – from comfort to convenience. Stay fit in our fully-equipped
+                gym, and enjoy peace of mind with 24/7 front desk support, in-room dining, and daily housekeeping.
+                Families will love our childcare services, and business guests can use our conference halls and meeting
+                rooms. We also offer laundry services, a rooftop lounge with city views, and travel desk support for
+                local tours. With professional staff, a safe and clean environment, and top-notch hospitality, Aruna
+                Grand Hotel truly feels like a home away from home.
+
+            </p>
+        </div>
+
+    </body>
+
+</html>
+
