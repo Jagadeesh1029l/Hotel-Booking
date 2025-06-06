@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Book a Room</title>
+  <link rel="stylesheet" href="hotel.css">
+</head>
+<body>
+  <section class="booking-form-section">
+    <h1>Booking Details</h1>
+    <form class="booking-form" action="BookingServlet" method="POST">
+      <label>Full Name:</label>
+      <input type="text" name="fullname" required>
+      
+      <label>Phone Number:</label>
+      <input type="text" name="phone" required>
+
+      <label>Room Type:</label>
+      <select name="roomType" required>
+        <option value="Standard">Standard</option>
+        <option value="Deluxe">Deluxe</option>
+        <option value="Suite">Suite</option>
+      </select>
+
+      <label>Check-in Date:</label>
+      <input type="date" name="checkin" required>
+
+      <label>Check-out Date:</label>
+      <input type="date" name="checkout" required>
+
+      <label>Number of Guests:</label>
+      <input type="number" name="guests" min="1" max="6" required>
+
+      <button type="submit">Confirm Booking</button>
+    </form>
+  </section>
+</body>
+</html>
