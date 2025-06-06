@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Terms & Privacy - Aruna Grands</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      width: 2500px;
+      
+    }
+
+    header {
+      background-color: #2d2a1f;;
+      padding: 20px;
+      text-align: center;
+    }
+
+
+    h1 {
+      font-size: 28px;
+      margin-bottom: 20px;
+      color: rgb(245, 229, 10);
+       text-align: center;
+    }
+
+    h2 {
+      font-size: 20px;
+      margin-top: 30px;
+      color: #162ee6;
+      font-size: xx-large;
+       
+    }
+     h3 {
+      font-size: 30px;
+      margin-top: 30px;
+      color: #fb0606;
+       text-align: center;
+      
+    }
+
+    p {
+      margin-bottom: 12px;
+      line-height: 1.6;
+      color: rgb(6, 11, 1);
+      font-size: x-large;
+    
+    }
+
+    a {
+      color: #2408f5; ;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+    section a{
+      color: #e70808;
+    }
+
+    footer {
+      background-color: #2d2a1f; ;
+      color: #c9a11e;
+      text-align: center;
+      padding: 20px;
+    }
+
+    footer a {
+      color: #d8dc16;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    footer p {
+      color: #d8dc16;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+
+    @media screen and (max-width: 768px) {
+      .container {
+        padding: 25px 15px;
+      }
+
+      h1 {
+        font-size: 22px;
+      }
+
+      h2 {
+        font-size: 18px;
+      }
+
+      p {
+        font-size: 15px;
+      }
+
+    }
+  </style>
+</head>
+<body>
+
+
+  <header>
+    <h1>Aruna Grands – Terms & Conditions & Privacy policies</h1>
+  </header>
+
+    <section id="terms">
+      <h3>Terms and Conditions</h3>
+
+      <h2>1. Acceptance of Terms</h2>
+      <p>By accessing and using the Aruna Grands Hotel Booking System, you agree to be legally bound by these Terms and Conditions. If you do not agree, please do not use our services.</p>
+
+      <h2>2. Booking & Confirmation</h2>
+      <p>All bookings are subject to availability. Guests must provide accurate personal and payment details. A confirmation email/SMS will be sent once the booking is complete. Bookings are confirmed only after receiving the minimum required payment.</p>
+
+      <h2>3. Check-in & Check-out Policy</h2>
+      <p>Standard Check-in: 12:00 PM | Standard Check-out: 11:00 AM. Early check-in or late check-out is subject to availability and may incur extra charges.</p>
+
+      <h2>4. Payment Terms</h2>
+      <p>We accept online payments through credit/debit cards, UPI, and wallets. Booking can be partially or fully prepaid depending on the hotel’s policy. Payment failures due to incorrect info, network issues, or bank-side errors are not the hotel’s responsibility.</p>
+
+      <h2>5. Cancellation & Refund Policy</h2>
+      <p>Free cancellation up to 24 hours before check-in. No refund for cancellations made after that or no-shows. Refunds, if applicable, will be processed within 7-10 business days.</p>
+
+      <h2>6. Guest Conduct</h2>
+      <p>Guests must maintain decorum and avoid causing disturbance, not damage property or misuse resources, cooperate with staff and follow hotel rules, and be responsible for any loss/damage caused during the stay.</p>
+
+      <h2>7. Use of Digital Platform</h2>
+      <p>You agree not to misuse the site or tamper with its security features. You must not post or upload any offensive, illegal, or harmful content. Use of bots/scripts to scrape data is prohibited.</p>
+
+      <h2>8. Force Majeure</h2>
+      <p>We are not liable for failures or delays in service caused by events beyond our control (e.g., natural disasters, strikes, pandemics, technical outages).</p>
+
+      <h2>9. Modifications</h2>
+      <p>Aruna Grands may revise the terms without prior notice. Your continued use implies agreement with the latest version.</p>
+
+      <h2>10. Governing Law</h2>
+      <p>These terms are governed by the laws of India. Any disputes shall be settled in courts under Telangana jurisdiction.</p>
+
+      <h2>11. Contact Information</h2>
+      <p>Email: <a href="mailto:support@arunagrands.com">support@arunagrands.com</a></p>
+    </section>
+
+    <hr style="margin: 50px 0; border-color: #334155;" />
+
+    <section id="privacy">
+      <h3>Privacy policies</h3>
+
+      <h2>1. Overview</h2>
+      <p>This Privacy Policy outlines how we collect, use, and protect your information when you use the Aruna Grands Hotel Booking System.</p>
+
+      <h2>2. Information We Collect</h2>
+      <p><strong>a) Personal Information:</strong> Full name, Contact number, Email address, ID proof, Address details</p>
+      <p><strong>b) Booking & Payment Details:</strong> Check-in/out dates, Room preferences, Payment method, Transaction ID and booking history</p>
+      <p><strong>c) Device & Usage Data:</strong> IP address, Browser/device info, Pages visited, time spent, Click-stream data</p>
+
+      <h2>3. How We Use Your Information</h2>
+      <p>We use your data to: Process bookings and payments, Contact you for confirmations, updates, or offers, Improve website performance and personalization, Prevent fraud or abuse, Comply with legal obligations</p>
+
+      <h2>4. Data Sharing</h2>
+      <p>We do not sell your data. We only share information with: Payment gateway partners (for secure transactions), Government/law enforcement (only if legally required), Customer support or IT service vendors under confidentiality</p>
+
+      <h2>5. Cookies & Tracking</h2>
+      <p>We use cookies to remember preferences and improve speed. You can disable cookies in your browser but some features may not work properly.</p>
+
+      <h2>6. Data Security</h2>
+      <p>All data is encrypted via HTTPS and stored securely. Passwords are hashed using industry-standard techniques. Admins and staff are trained on data protection best practices.</p>
+
+      <h2>7. Your Rights</h2>
+      <p>Right to access your data, Right to correct inaccuracies, Right to request deletion, Right to opt-out of marketing emails (unsubscribe anytime)</p>
+
+      <h2>8. Data Retention</h2>
+      <p>We retain data only as long as necessary: Booking history: up to 1 year, Account info: until you request deletion</p>
+
+      <h2>9. Changes to Policy</h2>
+      <p>This policy may be updated from time to time. Changes will be posted on this page.</p>
+
+      <h2>10. Contact Us</h2>
+      <p>Email: <a href="mailto:privacy@arunagrands.com">privacy@arunagrands.com</a></p>
+    </section>
+
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Aruna Grands. All rights reserved.</p>
+    <p>
+      <a href="#terms">Terms & Conditions</a> |
+      <a href="#privacy">Privacy Policy</a>
+    </p>
+  </footer>
+
+</body>
+</html>
